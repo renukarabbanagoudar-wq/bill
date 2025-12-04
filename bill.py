@@ -5,5 +5,6 @@ if (sys.argv) ==2:
     total=unit * bill
 else:
     print("Enter a electricity")
-    print("Unit:",unit)
+    print("Units:",units)
     print("Bill:",bill)
+
